@@ -143,7 +143,7 @@ function App() {
             </span>
           </h1>
           <p className="text-gray-300 text-lg max-w-2xl mx-auto mb-8">
-            Visualize and optimize your customer journey across all touchpoints.
+            Visualise and optimise your customer journey across all touchpoints.
             Built for CRM and lifecycle marketing professionals.
           </p>
 
